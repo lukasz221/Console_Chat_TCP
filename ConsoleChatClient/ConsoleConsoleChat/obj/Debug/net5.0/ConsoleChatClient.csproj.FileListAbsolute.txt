@@ -1,0 +1,16 @@
+D:\repos\ConsoleConsoleChat\ConsoleConsoleChat\bin\Debug\net5.0\ConsoleChatClient.exe
+D:\repos\ConsoleConsoleChat\ConsoleConsoleChat\bin\Debug\net5.0\ConsoleChatClient.deps.json
+D:\repos\ConsoleConsoleChat\ConsoleConsoleChat\bin\Debug\net5.0\ConsoleChatClient.runtimeconfig.json
+D:\repos\ConsoleConsoleChat\ConsoleConsoleChat\bin\Debug\net5.0\ConsoleChatClient.runtimeconfig.dev.json
+D:\repos\ConsoleConsoleChat\ConsoleConsoleChat\bin\Debug\net5.0\ConsoleChatClient.dll
+D:\repos\ConsoleConsoleChat\ConsoleConsoleChat\bin\Debug\net5.0\ConsoleChatClient.pdb
+D:\repos\ConsoleConsoleChat\ConsoleConsoleChat\obj\Debug\net5.0\ConsoleChatClient.csproj.AssemblyReference.cache
+D:\repos\ConsoleConsoleChat\ConsoleConsoleChat\obj\Debug\net5.0\ConsoleChatClient.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\ConsoleConsoleChat\ConsoleConsoleChat\obj\Debug\net5.0\ConsoleChatClient.AssemblyInfoInputs.cache
+D:\repos\ConsoleConsoleChat\ConsoleConsoleChat\obj\Debug\net5.0\ConsoleChatClient.AssemblyInfo.cs
+D:\repos\ConsoleConsoleChat\ConsoleConsoleChat\obj\Debug\net5.0\ConsoleChatClient.csproj.CoreCompileInputs.cache
+D:\repos\ConsoleConsoleChat\ConsoleConsoleChat\obj\Debug\net5.0\ConsoleChatClient.dll
+D:\repos\ConsoleConsoleChat\ConsoleConsoleChat\obj\Debug\net5.0\refint\ConsoleChatClient.dll
+D:\repos\ConsoleConsoleChat\ConsoleConsoleChat\obj\Debug\net5.0\ConsoleChatClient.pdb
+D:\repos\ConsoleConsoleChat\ConsoleConsoleChat\obj\Debug\net5.0\ConsoleChatClient.genruntimeconfig.cache
+D:\repos\ConsoleConsoleChat\ConsoleConsoleChat\obj\Debug\net5.0\ref\ConsoleChatClient.dll
